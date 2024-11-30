@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main1(){
     //1. 声明指针并给指针赋值
     int a = 10,b=20;
     int *p=&a;
@@ -26,5 +26,20 @@ int main(){
     // *cp2=20;
     // cp2=&b;
 
+    //在32位操作系统下，指针占用4个字节空间大小，不管是什么数据类型
+    //在64位操作系统下，指针占用8个字节空间大小
+    cout << "sizeof(int *) = "<<sizeof(int*)<<endl;
+    cout << "sizeof(float *) = "<<sizeof(float*)<<endl;
+    cout << "sizeof(char *) = "<<sizeof(char*)<<endl;
+    cout << "sizeof(double *) = "<<sizeof(double*)<<endl;
+
+    //指针和数组名的区别
+    int *arr1=new int[]{1,2,3,4,5,6,7,8,9};
+    int arr2[]={1,2,3,4,5,6,7,8,9};
+    cout << "sizeof(arr1) = "<<sizeof(arr1)<<endl;
+    cout << "sizeof(arr2) = "<<sizeof(arr2)<<endl;
+
+    //释放数据的内存
+    delete[] arr1;
     return 0;
 }
