@@ -799,6 +799,174 @@ build CMakeFiles/CppLearning.dir/class/usestock2.cpp.obj: CXX_COMPILER__CppLearn
   OBJECT_DIR = CMakeFiles\CppLearning.dir
   OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
 
+build CMakeFiles/CppLearning.dir/class/stock20.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/stock20.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\stock20.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/usestock3.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/usestock3.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\usestock3.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/stack.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/stack.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\stack.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/stacker.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/stacker.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\stacker.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/account.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/account.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\account.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/useacct.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/useacct.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\useacct.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/usecust.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/usecust.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\usecust.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/list.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/list.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\list.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class/uselist.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class/uselist.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class\uselist.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class
+
+build CMakeFiles/CppLearning.dir/class_usage/mytime0.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/mytime0.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\mytime0.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/usetime0.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/usetime0.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\usetime0.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/mytime1.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/mytime1.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\mytime1.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/usetime1.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/usetime1.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\usetime1.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/mytime2.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/mytime2.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\mytime2.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/usetime2.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/usetime2.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\usetime2.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/mytime3.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/mytime3.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\mytime3.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/usetime3.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/usetime3.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\usetime3.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/vector.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/vector.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\vector.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/randwalk.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/randwalk.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\randwalk.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/stonewt.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/stonewt.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\stonewt.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/stone.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/stone.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\stone.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/stonewt1.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/stonewt1.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\stonewt1.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/stone1.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/stone1.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\stone1.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/randwalk1.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/randwalk1.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\randwalk1.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/complex0.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/complex0.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\complex0.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_usage/usecomplex0.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_usage/usecomplex0.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_usage\usecomplex0.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_usage
+
+build CMakeFiles/CppLearning.dir/class_dynamic_assign/stringbad.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_dynamic_assign/stringbad.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_dynamic_assign\stringbad.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_dynamic_assign
+
+build CMakeFiles/CppLearning.dir/class_dynamic_assign/vegnews.cpp.obj: CXX_COMPILER__CppLearning_unscanned_Debug D$:/Workspace/CPP/CppLearning/class_dynamic_assign/vegnews.cpp || cmake_object_order_depends_target_CppLearning
+  DEP_FILE = CMakeFiles\CppLearning.dir\class_dynamic_assign\vegnews.cpp.obj.d
+  FLAGS = -save-temps -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CppLearning.dir
+  OBJECT_FILE_DIR = CMakeFiles\CppLearning.dir\class_dynamic_assign
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CppLearning
@@ -807,7 +975,7 @@ build CMakeFiles/CppLearning.dir/class/usestock2.cpp.obj: CXX_COMPILER__CppLearn
 #############################################
 # Link the executable CppLearning.exe
 
-build CppLearning.exe: CXX_EXECUTABLE_LINKER__CppLearning_Debug CMakeFiles/CppLearning.dir/main.cpp.obj CMakeFiles/CppLearning.dir/pointer/空指针和野指针.cpp.obj CMakeFiles/CppLearning.dir/reference/引用的基本语法.cpp.obj CMakeFiles/CppLearning.dir/reference/引用注意事项.cpp.obj CMakeFiles/CppLearning.dir/reference/引用作为返回值.cpp.obj CMakeFiles/CppLearning.dir/reference/引用的本质.cpp.obj CMakeFiles/CppLearning.dir/reference/常量引用.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数默认参数.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数占位参数.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数重载.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数重载注意事项.cpp.obj CMakeFiles/CppLearning.dir/class/封装案例.cpp.obj CMakeFiles/CppLearning.dir/class/访问权限.cpp.obj CMakeFiles/CppLearning.dir/class/构造函数和析构函数.cpp.obj CMakeFiles/CppLearning.dir/class/拷贝构造函数.cpp.obj CMakeFiles/CppLearning.dir/class/深拷贝和浅拷贝.cpp.obj CMakeFiles/CppLearning.dir/class/初始化列表.cpp.obj CMakeFiles/CppLearning.dir/class/类对象作为类成员.cpp.obj CMakeFiles/CppLearning.dir/class/静态成员.cpp.obj CMakeFiles/CppLearning.dir/class/成员变量和成员函数分开存储.cpp.obj CMakeFiles/CppLearning.dir/class/this指针的使用.cpp.obj CMakeFiles/CppLearning.dir/class/空指针调用成员函数.cpp.obj CMakeFiles/CppLearning.dir/class/const修饰成员函数.cpp.obj CMakeFiles/CppLearning.dir/friend/全局函数做友元函数.cpp.obj CMakeFiles/CppLearning.dir/operator_overloading/加号运算符重载.cpp.obj CMakeFiles/CppLearning.dir/operator_overloading/左移运算符重载.cpp.obj CMakeFiles/CppLearning.dir/type/limits.cpp.obj CMakeFiles/CppLearning.dir/type/hexoct.cpp.obj CMakeFiles/CppLearning.dir/math_operator/exercise3.cpp.obj CMakeFiles/CppLearning.dir/math_operator/exercise4.cpp.obj CMakeFiles/CppLearning.dir/math_operator/exercise5.cpp.obj CMakeFiles/CppLearning.dir/string/instr1.cpp.obj CMakeFiles/CppLearning.dir/string/numstr.cpp.obj CMakeFiles/CppLearning.dir/string/instr2.cpp.obj CMakeFiles/CppLearning.dir/string/instr3.cpp.obj CMakeFiles/CppLearning.dir/string/strtype2.cpp.obj CMakeFiles/CppLearning.dir/string/strtype3.cpp.obj CMakeFiles/CppLearning.dir/string/strtype4.cpp.obj CMakeFiles/CppLearning.dir/struct/arrstruc.cpp.obj CMakeFiles/CppLearning.dir/pointer/pointer.cpp.obj CMakeFiles/CppLearning.dir/pointer/use_new.cpp.obj CMakeFiles/CppLearning.dir/pointer/ptrstr.cpp.obj CMakeFiles/CppLearning.dir/pointer/newstrct.cpp.obj CMakeFiles/CppLearning.dir/array/choices.cpp.obj CMakeFiles/CppLearning.dir/string/exercie1.cpp.obj CMakeFiles/CppLearning.dir/string/excerise3.cpp.obj CMakeFiles/CppLearning.dir/string/exercise4.cpp.obj CMakeFiles/CppLearning.dir/string/exercise5.cpp.obj CMakeFiles/CppLearning.dir/string/exercise7.cpp.obj CMakeFiles/CppLearning.dir/loop/forstr2.cpp.obj CMakeFiles/CppLearning.dir/loop/compstr1.cpp.obj CMakeFiles/CppLearning.dir/loop/compstr2.cpp.obj CMakeFiles/CppLearning.dir/loop/waiting.cpp.obj CMakeFiles/CppLearning.dir/loop/textin1.cpp.obj CMakeFiles/CppLearning.dir/loop/textin2.cpp.obj CMakeFiles/CppLearning.dir/loop/textin3.cpp.obj CMakeFiles/CppLearning.dir/loop/textin4.cpp.obj CMakeFiles/CppLearning.dir/loop/nested.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise1.cpp.obj CMakeFiles/CppLearning.dir/loop/formore.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise3.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise4.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise7.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise8.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise9.cpp.obj CMakeFiles/CppLearning.dir/cctype/cctypes.cpp.obj CMakeFiles/CppLearning.dir/switch/switch.cpp.obj CMakeFiles/CppLearning.dir/switch/enum.cpp.obj CMakeFiles/CppLearning.dir/switch/cinfish.cpp.obj CMakeFiles/CppLearning.dir/switch/cingolf.cpp.obj CMakeFiles/CppLearning.dir/file/outfile.cpp.obj CMakeFiles/CppLearning.dir/file/sumafile.cpp.obj CMakeFiles/CppLearning.dir/cctype/exercise1.cpp.obj CMakeFiles/CppLearning.dir/cctype/exercise2.cpp.obj CMakeFiles/CppLearning.dir/cctype/exercise5.cpp.obj CMakeFiles/CppLearning.dir/function/towarg.cpp.obj CMakeFiles/CppLearning.dir/function/lotto.cpp.obj CMakeFiles/CppLearning.dir/function/arrfun2.cpp.obj CMakeFiles/CppLearning.dir/function/arrfun3.cpp.obj CMakeFiles/CppLearning.dir/function/strgfun.cpp.obj CMakeFiles/CppLearning.dir/function/strgback.cpp.obj CMakeFiles/CppLearning.dir/function/astrctfun.cpp.obj CMakeFiles/CppLearning.dir/function/arrobj.cpp.obj CMakeFiles/CppLearning.dir/function/recur.cpp.obj CMakeFiles/CppLearning.dir/function/ruler.cpp.obj CMakeFiles/CppLearning.dir/function/fun_ptr.cpp.obj CMakeFiles/CppLearning.dir/function/arfupt.cpp.obj CMakeFiles/CppLearning.dir/function/exercise1.cpp.obj CMakeFiles/CppLearning.dir/function/exercise2.cpp.obj CMakeFiles/CppLearning.dir/function/exercise3.cpp.obj CMakeFiles/CppLearning.dir/function/exercise5.cpp.obj CMakeFiles/CppLearning.dir/function/exercise9.cpp.obj CMakeFiles/CppLearning.dir/function/exercise10.cpp.obj CMakeFiles/CppLearning.dir/function2/inline.cpp.obj CMakeFiles/CppLearning.dir/function2/firstref.cpp.obj CMakeFiles/CppLearning.dir/function2/sceref.cpp.obj CMakeFiles/CppLearning.dir/function2/strquote.cpp.obj CMakeFiles/CppLearning.dir/function2/filefunc.cpp.obj CMakeFiles/CppLearning.dir/function2/left.cpp.obj CMakeFiles/CppLearning.dir/function2/leftover.cpp.obj CMakeFiles/CppLearning.dir/function2/funtemp.cpp.obj CMakeFiles/CppLearning.dir/function2/twoswap.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise1.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise2.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise3.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise4.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise5.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise6.cpp.obj CMakeFiles/CppLearning.dir/namesp/file1.cpp.obj CMakeFiles/CppLearning.dir/namesp/file2.cpp.obj CMakeFiles/CppLearning.dir/namesp/external.cpp.obj CMakeFiles/CppLearning.dir/namesp/support.cpp.obj CMakeFiles/CppLearning.dir/namesp/twofile1.cpp.obj CMakeFiles/CppLearning.dir/namesp/twofile2.cpp.obj CMakeFiles/CppLearning.dir/namesp/newplace.cpp.obj CMakeFiles/CppLearning.dir/namesp/namesp.cpp.obj CMakeFiles/CppLearning.dir/namesp/usenmsp.cpp.obj CMakeFiles/CppLearning.dir/namesp/golf.cpp.obj CMakeFiles/CppLearning.dir/namesp/exercise3.cpp.obj CMakeFiles/CppLearning.dir/namesp/sales.cpp.obj CMakeFiles/CppLearning.dir/namesp/usesales.cpp.obj CMakeFiles/CppLearning.dir/class/stock00.cpp.obj CMakeFiles/CppLearning.dir/class/usestck0.cpp.obj CMakeFiles/CppLearning.dir/class/stock10.cpp.obj CMakeFiles/CppLearning.dir/class/usestock2.cpp.obj
+build CppLearning.exe: CXX_EXECUTABLE_LINKER__CppLearning_Debug CMakeFiles/CppLearning.dir/main.cpp.obj CMakeFiles/CppLearning.dir/pointer/空指针和野指针.cpp.obj CMakeFiles/CppLearning.dir/reference/引用的基本语法.cpp.obj CMakeFiles/CppLearning.dir/reference/引用注意事项.cpp.obj CMakeFiles/CppLearning.dir/reference/引用作为返回值.cpp.obj CMakeFiles/CppLearning.dir/reference/引用的本质.cpp.obj CMakeFiles/CppLearning.dir/reference/常量引用.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数默认参数.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数占位参数.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数重载.cpp.obj CMakeFiles/CppLearning.dir/advanced_func/函数重载注意事项.cpp.obj CMakeFiles/CppLearning.dir/class/封装案例.cpp.obj CMakeFiles/CppLearning.dir/class/访问权限.cpp.obj CMakeFiles/CppLearning.dir/class/构造函数和析构函数.cpp.obj CMakeFiles/CppLearning.dir/class/拷贝构造函数.cpp.obj CMakeFiles/CppLearning.dir/class/深拷贝和浅拷贝.cpp.obj CMakeFiles/CppLearning.dir/class/初始化列表.cpp.obj CMakeFiles/CppLearning.dir/class/类对象作为类成员.cpp.obj CMakeFiles/CppLearning.dir/class/静态成员.cpp.obj CMakeFiles/CppLearning.dir/class/成员变量和成员函数分开存储.cpp.obj CMakeFiles/CppLearning.dir/class/this指针的使用.cpp.obj CMakeFiles/CppLearning.dir/class/空指针调用成员函数.cpp.obj CMakeFiles/CppLearning.dir/class/const修饰成员函数.cpp.obj CMakeFiles/CppLearning.dir/friend/全局函数做友元函数.cpp.obj CMakeFiles/CppLearning.dir/operator_overloading/加号运算符重载.cpp.obj CMakeFiles/CppLearning.dir/operator_overloading/左移运算符重载.cpp.obj CMakeFiles/CppLearning.dir/type/limits.cpp.obj CMakeFiles/CppLearning.dir/type/hexoct.cpp.obj CMakeFiles/CppLearning.dir/math_operator/exercise3.cpp.obj CMakeFiles/CppLearning.dir/math_operator/exercise4.cpp.obj CMakeFiles/CppLearning.dir/math_operator/exercise5.cpp.obj CMakeFiles/CppLearning.dir/string/instr1.cpp.obj CMakeFiles/CppLearning.dir/string/numstr.cpp.obj CMakeFiles/CppLearning.dir/string/instr2.cpp.obj CMakeFiles/CppLearning.dir/string/instr3.cpp.obj CMakeFiles/CppLearning.dir/string/strtype2.cpp.obj CMakeFiles/CppLearning.dir/string/strtype3.cpp.obj CMakeFiles/CppLearning.dir/string/strtype4.cpp.obj CMakeFiles/CppLearning.dir/struct/arrstruc.cpp.obj CMakeFiles/CppLearning.dir/pointer/pointer.cpp.obj CMakeFiles/CppLearning.dir/pointer/use_new.cpp.obj CMakeFiles/CppLearning.dir/pointer/ptrstr.cpp.obj CMakeFiles/CppLearning.dir/pointer/newstrct.cpp.obj CMakeFiles/CppLearning.dir/array/choices.cpp.obj CMakeFiles/CppLearning.dir/string/exercie1.cpp.obj CMakeFiles/CppLearning.dir/string/excerise3.cpp.obj CMakeFiles/CppLearning.dir/string/exercise4.cpp.obj CMakeFiles/CppLearning.dir/string/exercise5.cpp.obj CMakeFiles/CppLearning.dir/string/exercise7.cpp.obj CMakeFiles/CppLearning.dir/loop/forstr2.cpp.obj CMakeFiles/CppLearning.dir/loop/compstr1.cpp.obj CMakeFiles/CppLearning.dir/loop/compstr2.cpp.obj CMakeFiles/CppLearning.dir/loop/waiting.cpp.obj CMakeFiles/CppLearning.dir/loop/textin1.cpp.obj CMakeFiles/CppLearning.dir/loop/textin2.cpp.obj CMakeFiles/CppLearning.dir/loop/textin3.cpp.obj CMakeFiles/CppLearning.dir/loop/textin4.cpp.obj CMakeFiles/CppLearning.dir/loop/nested.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise1.cpp.obj CMakeFiles/CppLearning.dir/loop/formore.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise3.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise4.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise7.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise8.cpp.obj CMakeFiles/CppLearning.dir/loop/exercise9.cpp.obj CMakeFiles/CppLearning.dir/cctype/cctypes.cpp.obj CMakeFiles/CppLearning.dir/switch/switch.cpp.obj CMakeFiles/CppLearning.dir/switch/enum.cpp.obj CMakeFiles/CppLearning.dir/switch/cinfish.cpp.obj CMakeFiles/CppLearning.dir/switch/cingolf.cpp.obj CMakeFiles/CppLearning.dir/file/outfile.cpp.obj CMakeFiles/CppLearning.dir/file/sumafile.cpp.obj CMakeFiles/CppLearning.dir/cctype/exercise1.cpp.obj CMakeFiles/CppLearning.dir/cctype/exercise2.cpp.obj CMakeFiles/CppLearning.dir/cctype/exercise5.cpp.obj CMakeFiles/CppLearning.dir/function/towarg.cpp.obj CMakeFiles/CppLearning.dir/function/lotto.cpp.obj CMakeFiles/CppLearning.dir/function/arrfun2.cpp.obj CMakeFiles/CppLearning.dir/function/arrfun3.cpp.obj CMakeFiles/CppLearning.dir/function/strgfun.cpp.obj CMakeFiles/CppLearning.dir/function/strgback.cpp.obj CMakeFiles/CppLearning.dir/function/astrctfun.cpp.obj CMakeFiles/CppLearning.dir/function/arrobj.cpp.obj CMakeFiles/CppLearning.dir/function/recur.cpp.obj CMakeFiles/CppLearning.dir/function/ruler.cpp.obj CMakeFiles/CppLearning.dir/function/fun_ptr.cpp.obj CMakeFiles/CppLearning.dir/function/arfupt.cpp.obj CMakeFiles/CppLearning.dir/function/exercise1.cpp.obj CMakeFiles/CppLearning.dir/function/exercise2.cpp.obj CMakeFiles/CppLearning.dir/function/exercise3.cpp.obj CMakeFiles/CppLearning.dir/function/exercise5.cpp.obj CMakeFiles/CppLearning.dir/function/exercise9.cpp.obj CMakeFiles/CppLearning.dir/function/exercise10.cpp.obj CMakeFiles/CppLearning.dir/function2/inline.cpp.obj CMakeFiles/CppLearning.dir/function2/firstref.cpp.obj CMakeFiles/CppLearning.dir/function2/sceref.cpp.obj CMakeFiles/CppLearning.dir/function2/strquote.cpp.obj CMakeFiles/CppLearning.dir/function2/filefunc.cpp.obj CMakeFiles/CppLearning.dir/function2/left.cpp.obj CMakeFiles/CppLearning.dir/function2/leftover.cpp.obj CMakeFiles/CppLearning.dir/function2/funtemp.cpp.obj CMakeFiles/CppLearning.dir/function2/twoswap.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise1.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise2.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise3.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise4.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise5.cpp.obj CMakeFiles/CppLearning.dir/function2/exercise6.cpp.obj CMakeFiles/CppLearning.dir/namesp/file1.cpp.obj CMakeFiles/CppLearning.dir/namesp/file2.cpp.obj CMakeFiles/CppLearning.dir/namesp/external.cpp.obj CMakeFiles/CppLearning.dir/namesp/support.cpp.obj CMakeFiles/CppLearning.dir/namesp/twofile1.cpp.obj CMakeFiles/CppLearning.dir/namesp/twofile2.cpp.obj CMakeFiles/CppLearning.dir/namesp/newplace.cpp.obj CMakeFiles/CppLearning.dir/namesp/namesp.cpp.obj CMakeFiles/CppLearning.dir/namesp/usenmsp.cpp.obj CMakeFiles/CppLearning.dir/namesp/golf.cpp.obj CMakeFiles/CppLearning.dir/namesp/exercise3.cpp.obj CMakeFiles/CppLearning.dir/namesp/sales.cpp.obj CMakeFiles/CppLearning.dir/namesp/usesales.cpp.obj CMakeFiles/CppLearning.dir/class/stock00.cpp.obj CMakeFiles/CppLearning.dir/class/usestck0.cpp.obj CMakeFiles/CppLearning.dir/class/stock10.cpp.obj CMakeFiles/CppLearning.dir/class/usestock2.cpp.obj CMakeFiles/CppLearning.dir/class/stock20.cpp.obj CMakeFiles/CppLearning.dir/class/usestock3.cpp.obj CMakeFiles/CppLearning.dir/class/stack.cpp.obj CMakeFiles/CppLearning.dir/class/stacker.cpp.obj CMakeFiles/CppLearning.dir/class/account.cpp.obj CMakeFiles/CppLearning.dir/class/useacct.cpp.obj CMakeFiles/CppLearning.dir/class/usecust.cpp.obj CMakeFiles/CppLearning.dir/class/list.cpp.obj CMakeFiles/CppLearning.dir/class/uselist.cpp.obj CMakeFiles/CppLearning.dir/class_usage/mytime0.cpp.obj CMakeFiles/CppLearning.dir/class_usage/usetime0.cpp.obj CMakeFiles/CppLearning.dir/class_usage/mytime1.cpp.obj CMakeFiles/CppLearning.dir/class_usage/usetime1.cpp.obj CMakeFiles/CppLearning.dir/class_usage/mytime2.cpp.obj CMakeFiles/CppLearning.dir/class_usage/usetime2.cpp.obj CMakeFiles/CppLearning.dir/class_usage/mytime3.cpp.obj CMakeFiles/CppLearning.dir/class_usage/usetime3.cpp.obj CMakeFiles/CppLearning.dir/class_usage/vector.cpp.obj CMakeFiles/CppLearning.dir/class_usage/randwalk.cpp.obj CMakeFiles/CppLearning.dir/class_usage/stonewt.cpp.obj CMakeFiles/CppLearning.dir/class_usage/stone.cpp.obj CMakeFiles/CppLearning.dir/class_usage/stonewt1.cpp.obj CMakeFiles/CppLearning.dir/class_usage/stone1.cpp.obj CMakeFiles/CppLearning.dir/class_usage/randwalk1.cpp.obj CMakeFiles/CppLearning.dir/class_usage/complex0.cpp.obj CMakeFiles/CppLearning.dir/class_usage/usecomplex0.cpp.obj CMakeFiles/CppLearning.dir/class_dynamic_assign/stringbad.cpp.obj CMakeFiles/CppLearning.dir/class_dynamic_assign/vegnews.cpp.obj
   FLAGS = -save-temps -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CppLearning.dir
@@ -816,6 +984,7 @@ build CppLearning.exe: CXX_EXECUTABLE_LINKER__CppLearning_Debug CMakeFiles/CppLe
   TARGET_FILE = CppLearning.exe
   TARGET_IMPLIB = libCppLearning.dll.a
   TARGET_PDB = CppLearning.exe.dbg
+  RSP_FILE = CMakeFiles\CppLearning.rsp
 
 
 #############################################

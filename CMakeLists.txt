@@ -138,4 +138,46 @@ add_executable(CppLearning main.cpp
         class/stock10.h
         class/stock10.cpp
         class/usestock2.cpp
+        class/stock20.h
+        class/stock20.cpp
+        class/usestock3.cpp
+        class/stack.h
+        class/stack.cpp
+        class/stacker.cpp
+        class/account.h
+        class/account.cpp
+        class/useacct.cpp
+        class/customer.h
+        class/usecust.cpp
+        class/list.h
+        class/list.cpp
+        class/uselist.cpp
+        class_usage/mytime0.h
+        class_usage/mytime0.cpp
+        class_usage/usetime0.cpp
+        class_usage/mytime1.h
+        class_usage/mytime1.cpp
+        class_usage/usetime1.cpp
+        class_usage/mytime2.h
+        class_usage/mytime2.cpp
+        class_usage/usetime2.cpp
+        class_usage/mytime3.h
+        class_usage/mytime3.cpp
+        class_usage/usetime3.cpp
+        class_usage/vector.h
+        class_usage/vector.cpp
+        class_usage/randwalk.cpp
+        class_usage/stonewt.h
+        class_usage/stonewt.cpp
+        class_usage/stone.cpp
+        class_usage/stonewt1.h
+        class_usage/stonewt1.cpp
+        class_usage/stone1.cpp
+        class_usage/randwalk1.cpp
+        class_usage/complex0.h
+        class_usage/complex0.cpp
+        class_usage/usecomplex0.cpp
+        class_dynamic_assign/stringbad.h
+        class_dynamic_assign/stringbad.cpp
+        class_dynamic_assign/vegnews.cpp
 )
